@@ -1,2 +1,2 @@
 # leetcode
-The record of my solution to leetcode algorithm
+The record of my solutions to leetcode algorithm
